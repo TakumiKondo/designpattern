@@ -1,4 +1,4 @@
-package strategy;
+package strategy.janken;
 
 public class Hand {
     private int handValue;

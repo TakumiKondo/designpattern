@@ -1,4 +1,4 @@
-package strategy;
+package strategy.janken;
 
 public interface Strategy {
     public abstract Hand nextHand();

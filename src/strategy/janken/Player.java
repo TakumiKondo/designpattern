@@ -1,4 +1,4 @@
-package strategy;
+package strategy.janken;
 
 public class Player {
     private String _name;

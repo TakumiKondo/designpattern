@@ -1,4 +1,4 @@
-package strategy;
+package strategy.janken;
 
 public class Main {
     public static void main(String...strings) {
